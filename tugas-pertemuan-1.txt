@@ -3,5 +3,4 @@ Mahasiswa mengerjakan dan materi yang ada di pertemuan 2 yaitu installasi Codeig
 Upload (push) file-file project latihan anda ke repository Github.
 Demonstrasikan dan kumpulkan hasilnya di pertemuan selanjutny
 Tugas Individu
-dipresentasikan
 dikumpulkan minggu depan
