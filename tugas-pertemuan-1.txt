@@ -4,3 +4,4 @@ Upload (push) file-file project latihan anda ke repository Github.
 Demonstrasikan dan kumpulkan hasilnya di pertemuan selanjutny
 Tugas Individu
 dikumpulkan minggu depan
+setiap anggota kelompok wajib berkontribusi
