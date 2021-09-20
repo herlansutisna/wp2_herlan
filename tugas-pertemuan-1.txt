@@ -2,3 +2,4 @@ Mahasiswa menginstal Git dan membuat akun di Githhub beserta repository dengan f
 Mahasiswa mengerjakan dan materi yang ada di pertemuan 2 yaitu installasi Codeigniter dan mengerjakan latihan CI hingga controller contoh 1.
 Upload (push) file-file project latihan anda ke repository Github.
 Demonstrasikan dan kumpulkan hasilnya di pertemuan selanjutny
+Tugas Individu
